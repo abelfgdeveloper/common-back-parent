@@ -39,6 +39,13 @@
 
   <dependencyManagement>
     <dependencies>
+      <!-- Abelfgdeveloper Dependencies -->
+      <dependency>
+        <groupId>es.abelfgdeveloper.common.library</groupId>
+        <artifactId>dto-library</artifactId>
+        <version>${abelfgdeveloper.version}</version>
+      </dependency>
+
       <!-- Spring Cloud Dependencies -->
       <dependency>
         <groupId>org.springframework.cloud</groupId>
