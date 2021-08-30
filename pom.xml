@@ -45,6 +45,11 @@
         <artifactId>dto-library</artifactId>
         <version>${abelfgdeveloper.version}</version>
       </dependency>
+      <dependency>
+        <groupId>es.abelfgdeveloper.common.library</groupId>
+        <artifactId>common-library</artifactId>
+        <version>${abelfgdeveloper.version}</version>
+      </dependency>
 
       <!-- Spring Cloud Dependencies -->
       <dependency>
