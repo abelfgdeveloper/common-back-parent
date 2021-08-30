@@ -60,6 +60,11 @@
         <artifactId>service-starter</artifactId>
         <version>${abelfgdeveloper.version}</version>
       </dependency>
+      <dependency>
+        <groupId>es.abelfgdeveloper.common.starter</groupId>
+        <artifactId>service-test-starter</artifactId>
+        <version>${abelfgdeveloper.version}</version>
+      </dependency>
 
       <!-- Spring Cloud Dependencies -->
       <dependency>
