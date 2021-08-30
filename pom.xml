@@ -28,6 +28,15 @@
     <spring-cloud.version>2020.0.3</spring-cloud.version>
   </properties>
 
+  <dependencies>
+    <!-- Third Party Dependencies -->
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <optional>true</optional>
+    </dependency>
+  </dependencies>
+
   <dependencyManagement>
     <dependencies>
       <!-- Spring Cloud Dependencies -->
